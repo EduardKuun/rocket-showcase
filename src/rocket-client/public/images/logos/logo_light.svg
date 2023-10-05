@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="114.55399mm"
+   height="17.805401mm"
+   viewBox="0 0 114.55399 17.805401"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="logo_light.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.74564394"
+     inkscape:cx="-26.822454"
+     inkscape:cy="233.35535"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-55.889757,-129.12323)">
+    <g
+       aria-label="ROCKET"
+       id="text236"
+       style="font-size:25.4px;line-height:1.25;font-family:'Bauhaus 93';-inkscape-font-specification:'Bauhaus 93, ';fill:#172b4d;fill-opacity:1;stroke-width:0.264583">
+      <path
+         d="m 67.726157,138.69903 c 0,0 0,0 0,0 0.4826,-0.0508 0.9398,-0.1778 1.3716,-0.381 1.651,-0.762 2.794,-2.4384 2.794,-4.3688 0,-1.3208 -0.5334,-2.5146 -1.397,-3.4036 -0.8636,-0.8636 -2.0574,-1.397 -3.3782,-1.397 h -11.2268 v 17.78 h 3.175 v -8.1788 h 3.175 c 1.143,0 2.1336,0.6096 2.6924,1.524 l 0.0762,0.1524 1.7018,3.3274 1.6256,3.175 h 3.556 l -1.6256,-3.175 z m -8.6614,-3.0988 v -3.2766 h 8.0518 c 0.5588,0 0.9398,0.254 1.143,0.4572 0.1778,0.1778 0.4826,0.5842 0.4826,1.1684 0,0.635 -0.381,1.2192 -0.9652,1.4732 -0.2032,0.1016 -0.4318,0.1524 -0.6604,0.1524 z"
+         style="font-family:Azonix;-inkscape-font-specification:Azonix;fill:#172b4d;fill-opacity:1"
+         id="path1010" />
+      <path
+         d="m 82.712145,129.12323 c -4.9022,0 -8.89,3.9878 -8.89,8.89 0,4.9022 3.9878,8.89 8.89,8.89 4.9022,0 8.89,-3.9878 8.89,-8.89 0,-4.9022 -3.9878,-8.89 -8.89,-8.89 z m 0,14.605 c -3.1496,0 -5.715,-2.5654 -5.715,-5.715 0,-3.1496 2.5654,-5.715 5.715,-5.715 3.1496,0 5.715,2.5654 5.715,5.715 0,3.1496 -2.5654,5.715 -5.715,5.715 z"
+         style="font-family:Azonix;-inkscape-font-specification:Azonix;fill:#172b4d;fill-opacity:1"
+         id="path1012" />
+      <path
+         d="m 102.14314,132.29823 h 8.89 v -3.175 h -8.89 c -4.902196,0 -8.889996,3.9878 -8.889996,8.89 0,4.9022 3.9878,8.89 8.889996,8.89 h 8.89 v -3.175 h -8.89 c -3.149596,0 -5.714996,-2.5654 -5.714996,-5.715 0,-3.1496 2.5654,-5.715 5.714996,-5.715 z"
+         style="font-family:Azonix;-inkscape-font-specification:Azonix;fill:#172b4d;fill-opacity:1"
+         id="path1014" />
+      <path
+         d="m 131.35317,129.12323 h -4.699 l -4.953,4.5466 -2.3622,2.159 -2.6162,2.3876 v -9.0932 h -3.175 v 17.78 h 3.175 v -4.3942 l 4.4958,-4.0894 6.1468,8.4836 h 3.9116 l -7.6962,-10.6426 z"
+         style="font-family:Azonix;-inkscape-font-specification:Azonix;fill:#172b4d;fill-opacity:1"
+         id="path1016" />
+      <path
+         d="m 137.16976,132.29823 h 12.9794 v -3.175 h -12.9794 c -2.6416,0 -4.7752,2.159 -4.7752,4.8006 v 8.1788 c 0,2.6416 2.1336,4.8006 4.7752,4.8006 h 12.9794 v -3.175 h -12.9794 c -0.889,0 -1.6256,-0.7366 -1.6256,-1.6256 v -3.3528 h 11.43 v -3.175 h -11.43 v -1.651 c 0,-0.889 0.7366,-1.6256 1.6256,-1.6256 z"
+         style="font-family:Azonix;-inkscape-font-specification:Azonix;fill:#172b4d;fill-opacity:1"
+         id="path1018" />
+      <path
+         d="m 152.68914,129.14863 v 3.175 h 7.2898 v 14.605 h 3.175 v -14.605 h 7.2898 v -3.175 z"
+         style="font-family:Azonix;-inkscape-font-specification:Azonix;fill:#172b4d;fill-opacity:1"
+         id="path1020" />
+    </g>
+  </g>
+</svg>
